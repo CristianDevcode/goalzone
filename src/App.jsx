@@ -790,11 +790,7 @@ function LoginPage({ setCurrentPage }) {
 
               <div className="social-login-buttons">
                 <button onClick={() => openGoalZoneForm("Google")}>
-                  <img
-                    className="login-brand-icon"
-                    src="https://www.svgrepo.com/show/475656/google-color.svg"
-                    alt="Google"
-                  />
+                  <span className="google-icon-css">G</span>
                   <p>Continuar con Google</p>
                 </button>
 
