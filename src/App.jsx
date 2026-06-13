@@ -798,7 +798,7 @@ function LoginPage({ setCurrentPage }) {
                   <p>Continuar con Google</p>
                 </button>
 
-                <button onClick={() => openGoalZoneForm("Facebook")}>git status
+                <button onClick={() => openGoalZoneForm("Facebook")}>
                   <img
                     className="login-brand-icon"
                     src="https://www.svgrepo.com/show/475647/facebook-color.svg"
